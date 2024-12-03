@@ -1,0 +1,12 @@
+{
+    "crates": [
+      {
+        "root_module": "./part_2.rs",
+        "edition": "2021",
+        "deps": [],
+        "is_workspace_member": true
+      }
+    ],
+    "sysroot": "/Users/mazzi/.rustup/toolchains/stable-aarch64-apple-darwin"
+}
+  
