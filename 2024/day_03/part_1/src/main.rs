@@ -25,7 +25,7 @@ fn main() -> std::io::Result<()> {
         sum
     };
 
-    print!("Result: {:?}\n", result);
+    println!("Result: {:?}", result);
 
     Ok(())
 }

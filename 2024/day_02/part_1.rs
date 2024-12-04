@@ -33,7 +33,7 @@ fn main() -> std::io::Result<()> {
         })
         .count();
 
-    print!("Safe Reports: {:?}\n", safe_reports);
+    println!("Safe Reports: {:?}", safe_reports);
 
     Ok(())
 }
